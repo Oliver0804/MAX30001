@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAX30001CWV_T")(type "KiCad")(uri "${KIPRJMOD}/parts/MAX30001CWV+T footprint/MAX30001CWV_T.kicad_sym")(options "")(descr ""))
+  (lib (name "SIT1533AI-H4-DCC-32.768E")(type "KiCad")(uri "${KIPRJMOD}/parts/SIT1533AI-H4-DCC-32.768E.kicad_sym")(options "")(descr ""))
+)
